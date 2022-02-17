@@ -1,0 +1,50 @@
+
+header {
+    max-width: 1010px;
+    margin: auto;
+    background-image: url("../images/header_image.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    box-shadow: 3px black;
+
+}
+
+
+main{
+    text-align: left;
+    margin: auto;
+    background-color:tan;
+    padding: 10px;
+    max-width: 990px;
+    
+}
+
+ul{
+    display: inline-block;
+    list-style-position: inside;
+    text-align: left;
+    list-style-type: square;
+    
+}
+
+li{
+    padding: 2px;
+}
+
+h2{
+    
+    color: black;
+}
+
+footer{
+    background-color: beige;
+    padding: 5px;
+    text-align: center;
+    max-width: 1000px;
+    margin: auto;
+}
+
+p{
+    font-size: large;
+}
+
